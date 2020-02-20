@@ -1,0 +1,16 @@
+.button{
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 15;
+    -fx-border-radius: 10px;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+}
+
+#odd{
+    -fx-background-color: #cb272c;
+}
+#even{
+    -fx-background-color: #239146;
+}
